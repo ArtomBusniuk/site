@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Комментарии на сайте Jarosław Baranowski Master Sommelier	</title>
+	Komentarze do Jarosław Baranowski Sommelier	</title>
 	<atom:link href="https://artombusniuk.github.io/site/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://artombusniuk.github.io/site</link>
 	<description></description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>
-		Комментарий к записи Привет, мир! (Комментатор WordPress)		</title>
+		Skomentuj Привет, мир!, którego autorem jest Комментатор WordPress		</title>
 		<link>https://artombusniuk.github.io/site/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/#comment-1</link>
 
 		<dc:creator><![CDATA[Комментатор WordPress]]></dc:creator>
